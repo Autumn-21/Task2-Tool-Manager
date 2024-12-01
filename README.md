@@ -1,4 +1,4 @@
-Simple Tool Manager
+#Simple Tool Manager
 
 This Python project provides a graphical interface for managing tools such as ngspice. The application allows users to install, uninstall, and check for updates for tools based on the operating system. The implementation includes support for Linux and Windows.
 
